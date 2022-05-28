@@ -1,2 +1,2 @@
 # OverconstrainedResearch
-Analysis of over-constrained geometric constrained problems using numerical approach
+Analysis of over-constrained geometric constraint problems using numerical approach
